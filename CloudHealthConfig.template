@@ -9,7 +9,7 @@ Resources:
   CHRole:
     Type: 'AWS::IAM::Role'
     Properties:
-      RoleName: uoldiveo-mgmt-cost
+      RoleName: ROLENAME
       AssumeRolePolicyDocument:
         Version: 2012-10-17
         Statement:
